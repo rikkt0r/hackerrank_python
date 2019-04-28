@@ -4,6 +4,7 @@ def staircase(n):
 
 
 if __name__ == '__main__':
-    n = int(raw_input())
-
-    staircase(n)
+    staircase(0)
+    staircase(1)
+    staircase(4)
+    staircase(10)

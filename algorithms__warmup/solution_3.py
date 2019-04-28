@@ -1,8 +1,3 @@
-#!/bin/python
-
-import os
-
-
 def findLonely(arr):
     res = arr[0]
     for idx in range(1, len(arr)):
@@ -18,14 +13,5 @@ def findLonelyCounter(arr):
 
 
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
-
-    n = int(raw_input().strip())
-
-    arr = map(int, raw_input().rstrip().split())
-
-    res = findLonely(arr)
-
-    fptr.write(str(res) + '\n')
-
-    fptr.close()
+    print findLonely([1, 2, 2, 3, 3, 4, 4])
+    print findLonely([5, 5, 2, 2, 7, 8, 8, 5, 5])

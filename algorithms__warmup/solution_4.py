@@ -4,6 +4,5 @@ def miniMaxSum(arr):
 
 
 if __name__ == '__main__':
-    arr = map(int, raw_input().rstrip().split())
-
-    miniMaxSum(arr)
+    print miniMaxSum([1, 2, 3, 4, 5])
+    print miniMaxSum([5, 4, 3, 2, 1])

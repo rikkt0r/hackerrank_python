@@ -1,6 +1,3 @@
-import os
-
-
 def diagonalDifference(arr):
     _sum = 0
     n = len(arr)
@@ -14,17 +11,10 @@ def diagonalDifference(arr):
 
 
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+    test_data = [
+        [11, 2, 4],
+        [4, 5, 6],
+        [10, 8, -12]
+    ]
 
-    n = int(raw_input())
-
-    arr = []
-
-    for _ in xrange(n):
-        arr.append(map(int, raw_input().rstrip().split()))
-
-    result = diagonalDifference(arr)
-
-    fptr.write(str(result) + '\n')
-
-    fptr.close()
+    print diagonalDifference(test_data)

@@ -23,15 +23,6 @@ def compareTriplets(a, b):
 
 
 if __name__ == '__main__':
-    fptr = open(os.environ['OUTPUT_PATH'], 'w')
-
-    a = map(int, raw_input().rstrip().split())
-
-    b = map(int, raw_input().rstrip().split())
-
-    result = compareTriplets(a, b)
-
-    fptr.write(' '.join(map(str, result)))
-    fptr.write('\n')
-
-    fptr.close()
+    print compareTriplets([1, 2, 3], [4, 5, 6])
+    print compareTriplets([1, 2, 3], [4, 5, 3])
+    print compareTriplets([55, 34, 3], [4, 999, 1])
