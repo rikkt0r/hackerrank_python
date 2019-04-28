@@ -19,3 +19,6 @@
 4. (py2) https://www.hackerrank.com/challenges/dynamic-array/problem
 5. (py2) https://www.hackerrank.com/challenges/sparse-arrays/problem
 6. (py2) https://www.hackerrank.com/challenges/crush/problem
+
+
+### data structures / linked lists
