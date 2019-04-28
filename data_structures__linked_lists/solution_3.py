@@ -9,11 +9,13 @@ class SinglyLinkedList:
         self.head = None
 
 
-def printLinkedList(head):
+def debug_print(head):
     current = head
+    elems = []
     while current is not None:
-        print(current.data)
+        elems.append(str(current.data))
         current = current.next
+    print (' --> '.join(elems))
 
 
 def insertNodeAtHead(llist, data):
@@ -31,4 +33,4 @@ if __name__ == '__main__':
         llist_head = insertNodeAtHead(llist.head, x)
         llist.head = llist_head
 
-    printLinkedList(llist.head)
+    debug_print(llist.head)
