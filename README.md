@@ -32,3 +32,6 @@
 8. (py3) https://www.hackerrank.com/challenges/compare-two-linked-lists/problem
 9. (py3) https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem
 10. (py3) https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem
+11. (py3) https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem
+12. (py3) https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
+13. (py3) https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem
