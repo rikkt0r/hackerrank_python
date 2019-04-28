@@ -27,3 +27,6 @@
 3. (py2) https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem
 4. (py3) https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem
 5. (py3) https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem
+6. (py3) https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem
+7. (py3) https://www.hackerrank.com/challenges/reverse-a-linked-list/problem
+8. (py3) https://www.hackerrank.com/challenges/compare-two-linked-lists/problem
