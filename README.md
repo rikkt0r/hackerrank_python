@@ -30,3 +30,5 @@
 6. (py3) https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem
 7. (py3) https://www.hackerrank.com/challenges/reverse-a-linked-list/problem
 8. (py3) https://www.hackerrank.com/challenges/compare-two-linked-lists/problem
+9. (py3) https://www.hackerrank.com/challenges/get-the-value-of-the-node-at-a-specific-position-from-the-tail/problem
+10. (py3) https://www.hackerrank.com/challenges/merge-two-sorted-linked-lists/problem
