@@ -42,4 +42,5 @@
 ### data structures / stacks
 1. (py3) https://www.hackerrank.com/challenges/equal-stacks/problem
 2. (py3) https://www.hackerrank.com/challenges/maximum-element/problem
+3. (py3) https://www.hackerrank.com/challenges/balanced-brackets/problem
 
