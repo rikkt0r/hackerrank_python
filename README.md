@@ -35,3 +35,11 @@
 11. (py3) https://www.hackerrank.com/challenges/delete-duplicate-value-nodes-from-a-sorted-linked-list/problem
 12. (py3) https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem
 13. (py3) https://www.hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem
+14. (py3) https://www.hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem
+15. (py3) https://www.hackerrank.com/challenges/reverse-a-doubly-linked-list/problem
+
+
+### data structures / stacks
+1. (py3) https://www.hackerrank.com/challenges/equal-stacks/problem
+2. (py3) https://www.hackerrank.com/challenges/maximum-element/problem
+
